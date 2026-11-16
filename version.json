@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "MEOW CLICKER v1.0.0 — Official Launch",
+  "releaseDate": "2026-11-16",
+  "mandatory": false,
+  "minVersion": "1.0.0-beta",
+  "downloadUrl": "https://github.com/Aryan1027/meow-releases/releases/download/v1.0.0/MEOW.CLICKER-1.0.0-win.zip",
+  "fileName": "MEOW.CLICKER-1.0.0-win.zip",
+  "size": 153705657,
+  "sha256": "06ec422f9692eade2b7ccde86eb6689ab24312224cb2d2505cf2989b08794534",
+  "releaseNotes": "MEOW CLICKER v1.0.0 is officially released! Features the Skin Vault with 5 free starter skins + milestone unlocks, procedural audio synthesizer, combo streaks, offline persistence, and automated updates.",
+  "publisher": "OSSIRA Studios",
+  "homepage": "https://meow-clicker.pages.dev"
+}
